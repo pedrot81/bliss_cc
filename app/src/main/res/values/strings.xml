@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Bliss Recruitment</string>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="fullscreen_title">Bliss Recruitment</string>
+    <string name="server_health_nok">Unable to contact server with success</string>
+    <string name="retry">Retry</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Network not available</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="share_list">Share search</string>
+    <string name="share_title">Share Search Results</string>
+    <string name="share_detail_title">Share question</string>
+    <string name="share">Share</string>
+    <string name="cancel">Cancel</string>
+    <string name="search">Search</string>
+</resources>
